@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="Theme.MySplashScreen" parent="Theme.SplashScreen">
+    <item name="windowSplashScreenBackground">@color/black</item>
+    <item name="windowSplashScreenAnimatedIcon">@drawable/_4034f662e0d0b5161d26167f5753cee</item>
+    <item name="postSplashScreenTheme">@style/Theme.MyNotes121</item>
+</style>
+
+    <style name="Theme.MyNotes121" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
